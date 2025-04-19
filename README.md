@@ -1,2 +1,1 @@
-# lyfr-demo
-AI-powered mobile health diagnostics demo site
+# LYFR Demo\nThis is the official demo site for LYFR — a patent-pending AI mobile diagnostic platform.
